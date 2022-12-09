@@ -1,1 +1,0 @@
-# twrp_infinix_x662
