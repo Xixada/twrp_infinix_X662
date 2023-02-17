@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/infinix/X689
+DEVICE_PATH := device/infinix/x689
 
 # Architecture
 TARGET_ARCH := arm64
