@@ -70,7 +70,7 @@ if [ "$1" = "$FDEVICE" -o "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
 	export FOX_VERSION="R11.1"
 	export FOX_VARIANT=BETA
 	export OF_PATCH_AVB20=1
-	export OF_MAINTAINER="V E R G I L"
+	export OF_MAINTAINER="Joe"
 	export FOX_ADVANCED_SECURITY=1
 	export OF_USE_TWRP_SAR_DETECT=1
 
